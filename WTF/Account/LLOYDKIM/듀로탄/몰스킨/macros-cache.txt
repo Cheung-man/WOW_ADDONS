@@ -1,0 +1,16 @@
+VER 3 0100000000000004 "양변" "136071"
+#showtooltip 변이(양)
+/cast [@target,harm,nodead] 변이(양)
+END
+VER 3 0100000000000001 "얼음화살" "135846"
+#showtooltip 얼음 화살
+/cast [@target,harm,nodead] 얼음 화살
+END
+VER 3 0100000000000003 "차단" "135856"
+#showtooltip 마법 차단
+/cast [@target,harm,nodead] 마법 차단
+END
+VER 3 0100000000000002 "화염작렬" "135807"
+#showtooltip 화염 작렬
+/cast [@target,harm,nodead] 화염 작렬
+END

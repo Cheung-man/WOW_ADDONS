@@ -1,0 +1,35 @@
+﻿local ReBtn = CreateFrame("Frame", "ReBtn", UIParent, "BackdropTemplate");
+ReBtn.txt=ReBtn:CreateFontString(nil, "OVERLAY", "GameFontNormalSmall")
+
+ReBtn:RegisterEvent("PLAYER_LOGIN");
+ReBtn:SetBackdrop({
+	bgFile = "Interface\\skin\\wild.tga",
+	});
+ReBtn:SetPoint("Center",UIParent,"Topleft",0,0);
+ReBtn:SetBackdropColor(0.2,0.2,0.2,0)
+ReBtn:SetWidth(40);
+ReBtn:SetHeight(40);
+	
+ReBtn:SetScript("OnMouseUp",function(self, btn)
+	if btn == "LeftButton" then
+		ChatFrame1EditBox:SetText("/reflux switch 와우하는아저씨");
+		ChatEdit_SendText( ChatFrame1EditBox );
+	end end);
+	
+ReBtn:SetScript("OnEnter", function()
+	PlaySoundFile("nterface\AddOns\SharedMedia_MyMedia\sound\\wagerssi.2.ogg")
+	ReBtn:SetBackdropColor(0.7,0.7,0.7,1)
+	ReBtn:SetWidth(40);
+	ReBtn:SetHeight(40);
+	GameTooltip:SetOwner(ReBtn, "ANCHOR_Top",0,0)    
+	GameTooltip:AddLine("/reflux switch 와우하는아저씨")    
+	GameTooltip:Show()
+	end)
+	
+ReBtn:SetScript("OnLeave", function()
+	ReBtn:SetBackdropColor(0.2,0.2,0.2,0)
+	ReBtn:SetWidth(40);
+	ReBtn:SetHeight(40);
+	GameTooltip:Hide()
+	end)
+

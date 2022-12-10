@@ -1,0 +1,40 @@
+VER 3 0100000000000007 "신성화" "237541"
+#showtooltip 빛의 권능: 신성화
+/시전 [target=mouseover,help][help][target=player] 빛의 권능: 신성화
+END
+VER 3 0100000000000003 "정분" "136224"
+#showtooltip 정신 분열
+/cast [@target,harm,nodead] 정신 분열
+END
+VER 3 0100000000000006 "정불" "237565"
+#showtooltip 정신 불태우기
+/cast [@target,harm,nodead] 정신 불태우기
+END
+VER 3 010000000000000A "정화" "135894"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player] 정화
+END
+VER 3 0100000000000005 "죽음" "136149"
+#showtooltip 죽음
+/cast [@target,harm,nodead] 어둠의 권능: 죽음
+END
+VER 3 0100000000000002 "채찍" "136208"
+#showtooltip 정신의 채찍
+/cast [@target,harm,nodead] 정신의 채찍
+END
+VER 3 0100000000000008 "천상의 별" "537026"
+#showtooltip 천상의 별
+/시전 [target=mouseover,help][help][target=player] 천상의 별
+END
+VER 3 0100000000000009 "치마" "INV_MISC_QUESTIONMARK"
+#showtooltip 치유의 마법진
+/시전 [target=mouseover,help][help][target=player] 치유의 마법진
+END
+VER 3 0100000000000001 "파역" "252997"
+#showtooltip 파멸의 역병
+/cast [@target,harm,nodead] 파멸의 역병
+END
+VER 3 0100000000000004 "흡손" "135978"
+#showtooltip 흡혈의 손길
+/시전 [@target,harm,nodead] 흡혈의 손길
+END

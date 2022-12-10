@@ -1,0 +1,311 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+
+	<Button name="IRF_CRFManagerFilterButtonTemplate" inherits="UIMenuButtonStretchTemplate" virtual="true">
+		<Layers>
+			<Layer level="OVERLAY">
+				<Texture name="$parentSelectedHighlight" file="Interface\Buttons\UI-Panel-Button-YellowHighlight" alphaMode="ADD" parentKey="selectedHighlight" alpha="0.7">
+					<TexCoords left="0" right="0.625" top="0" bottom="0.6875"/>
+				</Texture>
+			</Layer>
+		</Layers>
+	</Button>
+	<Button name="IRF_CRFManagerFilterGroupButtonTemplate" inherits="IRF_CRFManagerFilterButtonTemplate" virtual="true">
+		<Size x="36" y="24"/>
+	</Button>
+	<Button name="IRF_CompactRaidFrameManagerDisplayFrameRaidMarkersRaidMarker1" inherits="IRF_CRFManagerFilterButtonTemplate" virtual="true">
+		<Size x="41" y="24"/>
+		<Anchors>
+			<Anchor point="TOPLEFT" relativeTo="$parent" relativePoint="TOPLEFT" x="25" y="0"/>
+		</Anchors>
+	</Button>
+	
+	<Button name="InvenRaidFrames3ManagerGroupButtonTemplate" movable="true" dontSavePosition="true" clampedToScreen="true" inherits="IRF_CRFManagerFilterGroupButtonTemplate" virtual="true"/>
+	<Frame name="InvenRaidFrames3Manager" hidden="true" parent="UIParent" frameStrata="MEDIUM" frameLevel="10" enableMouse="true" dontSavePosition="true">
+		<Size x="186" y="147"/>
+		<Anchors>
+			<Anchor point="CENTER"/>
+		</Anchors>
+		<Layers>
+			<Layer level="BACKGROUND" textureSubLevel="0">
+				<Texture name="$parentBorderTopLeft" file="Interface\RaidFrame\RaidPanel-UpperLeft">
+					<Size x="32" y="32"/>
+					<Anchors>
+						<Anchor point="TOPLEFT" x="-5" y="2"/>
+					</Anchors>
+				</Texture>
+				<Texture name="$parentBorderTopRight" file="Interface\RaidFrame\RaidPanel-UpperRight">
+					<Size x="32" y="32"/>
+					<Anchors>
+						<Anchor point="TOPRIGHT" x="5" y="2"/>
+					</Anchors>
+				</Texture>
+				<Texture name="$parentBorderBottomLeft" file="Interface\RaidFrame\RaidPanel-BottomLeft">
+					<Size x="32" y="32"/>
+					<Anchors>
+						<Anchor point="BOTTOMLEFT" x="-5" y="-5"/>
+					</Anchors>
+				</Texture>
+				<Texture name="$parentBorderBottomRight" file="Interface\RaidFrame\RaidPanel-BottomRight">
+					<Size x="32" y="32"/>
+					<Anchors>
+						<Anchor point="BOTTOMRIGHT" x="5" y="-5"/>
+					</Anchors>
+				</Texture>
+				<Texture name="$parentBorderTop" file="Interface\RaidFrame\RaidPanel-UpperMiddle" horizTile="true">
+					<Size x="0" y="16"/>
+					<Anchors>
+						<Anchor point="TOPLEFT" relativeTo="$parentBorderTopLeft" relativePoint="TOPRIGHT" x="0" y="1"/>
+						<Anchor point="TOPRIGHT" relativeTo="$parentBorderTopRight" relativePoint="TOPLEFT" x="0" y="1"/>
+					</Anchors>
+				</Texture>
+				<Texture name="$parentBorderBottom" file="Interface\RaidFrame\RaidPanel-BottomMiddle" horizTile="true">
+					<Size x="0" y="16"/>
+					<Anchors>
+						<Anchor point="BOTTOMLEFT" relativeTo="$parentBorderBottomLeft" relativePoint="BOTTOMRIGHT" x="0" y="-4"/>
+						<Anchor point="BOTTOMRIGHT" relativeTo="$parentBorderBottomRight" relativePoint="BOTTOMLEFT" x="0" y="-4"/>
+					</Anchors>
+				</Texture>
+				<Texture name="$parentBorderLeft" file="Interface\RaidFrame\RaidPanel-Left" vertTile="true">
+					<Size x="16" y="0"/>
+					<Anchors>
+						<Anchor point="TOPLEFT" relativeTo="$parentBorderTopLeft" relativePoint="BOTTOMLEFT" x="-1" y="0"/>
+						<Anchor point="BOTTOMLEFT" relativeTo="$parentBorderBottomLeft" relativePoint="TOPLEFT" x="-1" y="0"/>
+					</Anchors>
+				</Texture>
+				<Texture name="$parentBorderRight" file="Interface\RaidFrame\RaidPanel-Right" vertTile="true">
+					<Size x="16" y="0"/>
+					<Anchors>
+						<Anchor point="TOPRIGHT" relativeTo="$parentBorderTopRight" relativePoint="BOTTOMRIGHT" x="2" y="0"/>
+						<Anchor point="BOTTOMRIGHT" relativeTo="$parentBorderBottomRight" relativePoint="TOPRIGHT" x="2" y="0"/>
+					</Anchors>
+				</Texture>
+			</Layer>
+			<Layer level="BACKGROUND" textureSubLevel="1">
+				<Texture name="$parentBg" parentKey="bg" file="Interface\FrameGeneral\UI-Background-Rock" horizTile="true" vertTile="true">
+					<Anchors>
+						<Anchor point="TOPLEFT" relativeTo="$parentBorderTopLeft" x="8" y="-6"/>
+						<Anchor point="BOTTOMRIGHT" relativeTo="$parentBorderBottomRight" x="-8" y="8"/>
+					</Anchors>
+				</Texture>
+			</Layer>
+		</Layers>
+		<Frames>
+			<Frame name="$parentContent" parentKey="content" frameLevel="11" hidden="true">
+				<Anchors>
+					<Anchor point="TOPLEFT" relativeTo="$parentBg"/>
+					<Anchor point="BOTTOMRIGHT" relativeTo="$parentBg"/>
+				</Anchors>
+				<Layers>
+					<Layer level="BACKGROUND">
+						<Texture name="$parentHeader" parentKey="header">
+							<Size x="0" y="17"/>
+							<Anchors>
+								<Anchor point="TOP"/>
+							</Anchors>
+							<Color r="0" b="0" g="0" a="0.93"/>
+						</Texture>
+					</Layer>
+					<Layer level="BORDER">
+						<Texture name="$parentHeaderLine" file="Interface\RaidFrame\RaidPanel-UpperMiddle" horizTile="true">
+							<Size x="0" y="12"/>
+							<Anchors>
+								<Anchor point="TOPLEFT" relativeTo="$parentHeader" relativePoint="BOTTOMLEFT" x="0" y="3"/>
+								<Anchor point="TOPRIGHT" relativeTo="$parentHeader" relativePoint="BOTTOMRIGHT" x="0" y="3"/>
+							</Anchors>
+						</Texture>
+						<Texture name="$parentGroupLine" parentKey="groupLine" file="Interface\RaidFrame\RaidPanel-UpperMiddle" horizTile="true">
+							<Size x="0" y="12"/>
+							<Anchors>
+								<Anchor point="LEFT" relativeTo="$parentHeader" relativePoint="LEFT"/>
+								<Anchor point="RIGHT" relativeTo="$parentHeader" relativePoint="RIGHT"/>
+								<!--<Anchor point="BOTTOM" relativeTo="CompactRaidFrameManagerDisplayFrameRaidMarkersRaidMarker1" relativePoint="TOP" x="0" y="18"/>!-->
+							</Anchors>
+						</Texture>
+					</Layer>
+					<Layer level="OVERLAY">
+						<FontString name="$parentRaidMembersLabel" inherits="GameFontNormal" text="공격대 관리자" parentKey="label" maxLines="1">
+							<Anchors>
+								<Anchor point="LEFT" relativeTo="$parentHeader" x="6" y="0"/>
+							</Anchors>
+						</FontString>
+						<FontString name="$parentRaidMemberCountLabel" parentKey="memberCountLabel" justifyH="RIGHT" inherits="GameFontNormal" text="10/10" maxLines="1">
+							<Anchors>
+								<Anchor point="RIGHT" relativeTo="$parentHeader" x="-6" y="0"/>
+							</Anchors>
+						</FontString>
+					</Layer>
+				</Layers>
+				<Frames>
+					<Button name="$parentLockButton" parentKey="lockButton" frameLevel="12" inherits="UIMenuButtonStretchTemplate" text="LOCK">
+						<Size x="0" y="20"/>
+						<Anchors>
+							<Anchor point="BOTTOMLEFT"/>
+							<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOM" x="-1" y="0"/>
+						</Anchors>
+					</Button>
+					<Button name="$parentHideButton" parentKey="hideButton" freamLevel="12" inherits="UIMenuButtonStretchTemplate" text="HIDE">
+						<Size x="0" y="20"/>
+						<Anchors>
+							<Anchor point="BOTTOMLEFT" relativePoint="BOTTOM" x="1" y="0"/>
+							<Anchor point="BOTTOMRIGHT"/>
+						</Anchors>
+					</Button>
+
+					<CheckButton name="$parentEveryoneIsAssistButton" parentKey="everyoneIsAssistButton" hidden="true" inherits="UICheckButtonTemplate">
+						<Size x="24" y="24"/>
+						<Anchors>
+							<Anchor point="TOPLEFT" relativeTo="$parentGroupLine" x="3" y="-15"/>
+						</Anchors>
+						<Scripts>
+							<OnLoad>
+								_G[self:GetName().."Text"]:SetText(ALL_ASSIST_LABEL_LONG);
+								self:RegisterEvent("GROUP_ROSTER_UPDATE");
+								self:RegisterEvent("PARTY_LEADER_CHANGED");
+							</OnLoad>
+							<OnEvent>
+								self:SetChecked(IsEveryoneAssistant());
+								if ( UnitIsGroupLeader("player") ) then
+									self:Enable();
+									self.text:SetFontObject(GameFontNormalSmall);
+								else
+									self:Disable();
+									self.text:SetFontObject(GameFontDisableSmall);
+								end
+							</OnEvent>
+							<OnClick>
+								SetEveryoneIsAssistant(self:GetChecked());
+							</OnClick>
+							<OnEnter>
+								GameTooltip:SetOwner(self, "ANCHOR_RIGHT");
+								GameTooltip:SetText(ALL_ASSIST_DESCRIPTION, nil, nil, nil, nil, true);
+								if ( not self:IsEnabled() ) then
+									GameTooltip:AddLine(ALL_ASSIST_NOT_LEADER_ERROR, RED_FONT_COLOR.r, RED_FONT_COLOR.g, RED_FONT_COLOR.b, true);
+								end
+								GameTooltip:Show();
+							</OnEnter>
+							<OnLeave function="GameTooltip_Hide"/>
+						</Scripts>
+					</CheckButton>
+
+					<Frame name="$parentPartyGroup" parentKey="partyGroup" frameLevel="11" hidden="true">
+						<Anchors>
+							<Anchor point="TOP" relativeTo="$parentHeaderLine" relativePoint="BOTTOM" x="0" y="-65"/>
+							<Anchor point="LEFT" x="0" y="0"/>
+							<Anchor point="RIGHT" x="0" y="0"/>
+							<Anchor point="BOTTOM" relativeTo="$parentGroupLine" relativePoint="TOP" x="0" y="-40"/>
+						</Anchors>
+						<Frames>
+							<Button name="$parent1" parentKey="group1" text="1" id="1" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent2" parentKey="group2" text="2" id="2" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent3" parentKey="group3" text="3" id="3" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent4" parentKey="group4" text="4" id="4" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent5" parentKey="group5" text="5" id="5" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent6" parentKey="group6" text="6" id="6" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent7" parentKey="group7" text="7" id="7" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent8" parentKey="group8" text="8" id="8" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+						</Frames>
+					</Frame>
+					<Frame name="$parentClassGroup" parentKey="classGroup" frameLevel="11" hidden="true">
+						<Anchors>
+							<Anchor point="TOP" relativeTo="$parentHeaderLine" relativePoint="BOTTOM" x="0" y="-65"/>
+							<Anchor point="LEFT" x="0" y="0"/>
+							<Anchor point="RIGHT" x="0" y="0"/>
+							<Anchor point="BOTTOM" relativeTo="$parentGroupLine" relativePoint="TOP" x="0" y="-40"/>
+						</Anchors>
+						<Frames>
+							<Button name="$parent1" parentKey="WARRIOR" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent2" parentKey="ROGUE" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent3" parentKey="PRIEST" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent4" parentKey="MAGE" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent5" parentKey="WARLOCK" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent6" parentKey="HUNTER" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent7" parentKey="DRUID" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent8" parentKey="SHAMAN" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent9" parentKey="PALADIN" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent10" parentKey="DEATHKNIGHT" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent11" parentKey="MONK" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent12" parentKey="DEMONHUNTER" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent13" parentKey="EVOKER" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+						</Frames>
+					</Frame>
+					<Frame name="$parentRoleGroup" parentKey="roleGroup" frameLevel="11" hidden="true">
+						<Anchors>
+							<Anchor point="TOP" relativeTo="$parentHeaderLine" relativePoint="BOTTOM" x="0" y="-65"/>
+							<Anchor point="LEFT" x="0" y="0"/>
+							<Anchor point="RIGHT" x="0" y="0"/>
+							<Anchor point="BOTTOM" relativeTo="$parentGroupLine" relativePoint="TOP" x="0" y="-40"/>
+						</Anchors>
+						<Frames>
+							<Button name="$parent1" parentKey="TANK" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent2" parentKey="HEALER" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent3" parentKey="DAMAGER" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+							<Button name="$parent4" parentKey="NONE" frameLevel="14" inherits="InvenRaidFrames3ManagerGroupButtonTemplate"/>
+						</Frames>
+					</Frame>
+				</Frames>
+				<Scripts>
+					<OnLoad>
+						if CompactRaidFrameManager then
+							self.header:SetPoint("LEFT", self:GetParent().bg, 0, 0)
+							self.header:SetPoint("RIGHT", self:GetParent().bg, 0, 0)
+							local function newParent(frame)
+								frame:SetParent(self)
+								frame:SetFrameLevel(12)
+							end
+							self.markerButton = CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+							newParent(self.markerButton)
+							self.markerButton:ClearAllPoints()
+							self.markerButton:SetPoint("BOTTOMRIGHT", self.hideButton, "TOPRIGHT", 0, 0)
+							self.readyCheckButton = CompactRaidFrameManagerDisplayFrameLeaderOptionsInitiateReadyCheck
+							newParent(self.readyCheckButton)
+							self.readyCheckButton:ClearAllPoints()
+							self.readyCheckButton:SetPoint("BOTTOMLEFT", self.lockButton, "TOPLEFT", 0, 0)
+							self.readyCheckButton:SetPoint("RIGHT", self.markerButton, "LEFT", -2, 0)
+							self.rolePollButton = CompactRaidFrameManagerDisplayFrameLeaderOptionsInitiateRolePoll
+							newParent(self.rolePollButton)
+							self.rolePollButton:ClearAllPoints()
+							self.rolePollButton:SetPoint("BOTTOMLEFT", self.readyCheckButton, "TOPLEFT", 0, 0)
+							self.rolePollButton:SetWidth(85)
+							self.countdownButton = CompactRaidFrameManagerDisplayFrameLeaderOptionsCountdown
+							newParent(self.countdownButton)
+							self.countdownButton:ClearAllPoints()
+							self.countdownButton:SetPoint("TOPLEFT", self.rolePollButton, "TOPRIGHT", 0, 0)
+							self.countdownButton:SetWidth(85)
+							for i = 1, NUM_RAID_ICONS do
+								newParent(_G["CompactRaidFrameManagerDisplayFrameRaidMarkersRaidMarker"..i])
+							end
+							newParent(CompactRaidFrameManagerDisplayFrameRaidMarkersRaidMarkerRemove)
+							CompactRaidFrameManagerDisplayFrameRaidMarkersRaidMarker1:ClearAllPoints()
+							CompactRaidFrameManagerDisplayFrameRaidMarkersRaidMarker1:SetPoint("BOTTOMLEFT", self.rolePollButton, "TOPLEFT", 8, 30)
+						else							
+							self.header:SetPoint("LEFT", self:GetParent().bg, 0, 0)
+							self.header:SetPoint("RIGHT", self:GetParent().bg, 0, 0)
+							self.header:SetPoint("TOP", self:GetParent().bg, 0, -20)
+							self.header:SetPoint("BOTTOM", self:GetParent().bg, 0, 100)
+							local function newParent(frame)
+								frame:SetParent(self)
+								frame:SetFrameLevel(12)
+							end
+						end
+					</OnLoad>
+				</Scripts>
+			</Frame>
+			<Button name="$parentToggleButton" parentKey="toggleButton" frameLevel="13">
+				<Size x="16" y="64"/>
+				<Anchors>
+					<Anchor point="RIGHT" x="-2" y="0"/>
+				</Anchors>
+				<NormalTexture file="Interface\RaidFrame\RaidPanel-Toggle" parentKey="normal">
+					<TexCoords left="0" right="0.5" top="0" bottom="1"/>
+				</NormalTexture>
+				<PushedTexture file="Interface\RaidFrame\RaidPanel-Toggle" parentKey="pushed">
+					<TexCoords left="0" right="0.5" top="0" bottom="1"/>
+				</PushedTexture>
+			</Button>
+		</Frames>
+	</Frame>
+	
+	<Script file="Manager.lua"/>
+	
+</Ui>

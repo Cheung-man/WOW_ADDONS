@@ -1,0 +1,85 @@
+
+WhatsYourCovenantConfig = {
+	["usability_Colourise"] = true,
+	["version"] = "1.4.0",
+	["contextualTooltip_Display"] = true,
+	["usability_CovenantColours"] = {
+		"ff2bd9f0", -- [1]
+		"ffde1b14", -- [2]
+		"ff237dff", -- [3]
+		"ff2bb557", -- [4]
+	},
+	["database_BothFactions"] = true,
+	["database_GeneratePersonal"] = true,
+	["unitTooltip_Display"] = true,
+}
+WhatsYourCovenantData = {
+	["PersonalCovenantDb"] = {
+		{
+			["faction"] = "Horde",
+			["아즈샤라"] = {
+				["치천의일곱고리"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1628662303,
+				},
+				["짬진우"] = {
+					["covenant"] = 1,
+					["lastUpdateAt"] = 1628668777,
+				},
+				["Erpg"] = {
+					["covenant"] = 2,
+					["lastUpdateAt"] = 1628663898,
+				},
+				["난폭함전사"] = {
+					["covenant"] = 1,
+					["lastUpdateAt"] = 1628651013,
+				},
+				["아팡"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1628652506,
+				},
+				["오징어천국"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1628668817,
+				},
+				["나락길"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1628663183,
+				},
+				["검은곰돌이푸우"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1628663077,
+				},
+				["주주동물원"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1628666213,
+				},
+				["알겠다구요"] = {
+					["covenant"] = 4,
+					["lastUpdateAt"] = 1628666236,
+				},
+				["원펀치드루"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1628668780,
+				},
+				["사냥똔"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1628663884,
+				},
+				["뮤즈술사"] = {
+					["covenant"] = 2,
+					["lastUpdateAt"] = 1628668299,
+				},
+			},
+		}, -- [1]
+		{
+			["faction"] = "Alliance",
+			["아즈샤라"] = {
+				["Sselect"] = {
+					["covenant"] = 1,
+					["lastUpdateAt"] = 1628650284,
+				},
+			},
+		}, -- [2]
+	},
+}

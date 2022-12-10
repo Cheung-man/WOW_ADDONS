@@ -1,0 +1,12 @@
+## Interface: 90002
+## Name: masque_Shadowlands
+## Title: Masque: Shadowlands
+## Version: 1.3-Release
+## Author: Levi "Hodag" Nellen
+## Notes: Main button art courtesy of Blizzard Entertainment. Backdrop art courtesy of Storm FX.
+## DefaultState: Enabled
+## Dependencies: Masque
+## X-License: All Rights Reserved
+## X-Category: Artwork
+
+main.lua

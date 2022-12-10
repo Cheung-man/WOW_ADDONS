@@ -1,0 +1,19 @@
+﻿## Interface: 70000
+## X-Curse-Packaged-Version: 2.0.4
+## X-Curse-Project-Name: Masque: Vista
+## X-Curse-Project-ID: buttonfacade_jiyll
+## X-Curse-Repository-ID: wow/buttonfacade_jiyll/mainline
+
+## Title: Masque |cff267EFFVista|r
+## Notes: |cff267EFFJiyll|r skins for Masque based on Vista.
+## Notes-frFR: Skins de |cff267EFFJiyll|r pour Masque basees sur Vista.
+## Version: 2.0.4
+## Author: |cff267EFFJiyll|r, Choonster (updates)
+## Dependencies: Masque
+
+## X-eMail: jiyll@hotmail.com
+## X-Credits: Diabless, Caith, StormFX
+## X-Category: Plug-Ins
+
+
+Skins.lua

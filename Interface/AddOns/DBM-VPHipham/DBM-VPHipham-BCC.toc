@@ -1,0 +1,13 @@
+﻿## Interface: 20503
+## X-Min-Interface: 20501
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack hipham|r
+## Title-koKR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0음성팩 힙햄|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: hipham
+## Version: 2.2
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: 힙햄 (Korean Female)
+## X-DBM-Voice-ShortName: Hipham
+## X-DBM-Voice-Version: 12
+## X-DBM-Voice-HasCount: 1

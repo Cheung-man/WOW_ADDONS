@@ -1,0 +1,2 @@
+
+KuiTargetHelperConfigSaved = nil

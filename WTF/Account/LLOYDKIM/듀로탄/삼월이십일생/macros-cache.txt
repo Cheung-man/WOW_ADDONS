@@ -1,0 +1,52 @@
+VER 3 0100000000000006 "급속성장" "236153"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player]급속 성장
+END
+VER 3 0100000000000001 "달빛섬광" "136096"
+#showtooltip
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 달빛섬광
+END
+VER 3 010000000000000B "별똥별" "236168"
+#showtooltip
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 별똥별
+END
+VER 3 0100000000000003 "별빛쇄도" "135730"
+#showtooltip
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 별빛쇄도
+END
+VER 3 0100000000000009 "별섬" "135753"
+#showtooltip
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 별빛섬광
+END
+VER 3 0100000000000008 "소생" "136059"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player]소생
+END
+VER 3 0100000000000007 "신속치유" "134914"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player]신속한 치유
+END
+VER 3 010000000000000C "재생" "136085"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player] 재생
+END
+VER 3 0100000000000002 "천벌" "535045"
+#showtooltip
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 천벌
+END
+VER 3 0100000000000005 "천체의 정렬" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 
+END
+VER 3 0100000000000004 "태양섬광" "236216"
+#showtooltip
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 태양섬광
+END
+VER 3 010000000000000D "항성" "1052602"
+#showtooltip
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm]항성의 섬광
+END
+VER 3 010000000000000A "회복" "136081"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player]회복
+END

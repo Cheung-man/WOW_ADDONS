@@ -1,0 +1,48 @@
+VER 3 0100000000000037 "고통" "136207"
+#showtooltip 어둠의 권능: 고통
+/cast [@target,harm,nodead] 어둠의 권능: 고통
+END
+VER 3 010000000000004B "생명" "134400"
+#showtooltip 신의 권능: 생명
+/시전 [target=mouseover,help][help][target=player] 신의 권능: 생명
+END
+VER 3 010000000000004A "신성화" "134400"
+#showtooltip 빛의 권능: 신성화
+/시전 [help][target=player] 빛의 권능: 신성화
+END
+VER 3 0100000000000049 "어둠붕괴" "136201"
+#showtooltip
+/cast [mod:alt,@target][nomod,@cursor]어둠 붕괴
+END
+VER 3 0100000000000032 "정분" "136224"
+#showcooldown 정신 분열
+/cast [@target,harm,nodead] 정신 분열
+END
+VER 3 0100000000000035 "정불" "237565"
+#showtooltip 정신 불태우기
+/cast [@target,harm,nodead] 정신 불태우기
+END
+VER 3 0100000000000038 "죽음" "136149"
+#showtooltip 죽음
+/cast [@target,harm,nodead] 어둠의 권능: 죽음
+END
+VER 3 0100000000000031 "채찍" "136208"
+#showtooltip
+/cast [@target,harm,nodead] 정신의 채찍
+END
+VER 3 0100000000000047 "침묵" "458230"
+#showtooltip 침묵
+/cast [@target,harm,nodead] 침묵
+END
+VER 3 010000000000003A "파역" "252997"
+#showtooltip 파멸의 역병
+/cast [@target,harm,nodead] 파멸의 역병
+END
+VER 3 0100000000000039 "흡선" "136230"
+#showtooltip 흡혈의 선물
+/cast [@target,harm,nodead] 흡혈의 선물
+END
+VER 3 0100000000000029 "흡손" "135978"
+#showcooldown
+/cast [@target,harm,nodead] 흡혈의 손길
+END

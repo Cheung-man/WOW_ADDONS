@@ -1,0 +1,6 @@
+
+ElvFCT = {
+	["unitframes"] = {
+		["enable"] = false,
+	},
+}

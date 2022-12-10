@@ -1,0 +1,78 @@
+VER 3 0100000000000019 "고억" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][@target,exists][@player] 고통 억제
+END
+VER 3 0100000000000015 "내면" "INV_Misc_QuestionMark"
+#showtooltip
+/cast 내면의 집중력
+/cast [@mouseover,help][help][@player] 치유의 기원
+END
+VER 3 010000000000000A "마귀" "INV_Misc_QuestionMark"
+#showtooltip 어둠의 마귀
+/cast [target=target,harm][target=targettarget,harm] 어둠의 마귀
+/cast [pet] 어둠의 포복
+END
+VER 3 0100000000000017 "마력주입" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@player] 마력 주입
+END
+VER 3 010000000000001A "마주" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][@target,exists][@player] 마력 주입
+END
+VER 3 010000000000001C "방벽" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][@target,exists][@player] 신의 권능: 방벽
+END
+VER 3 0100000000000016 "보막" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][help][@player] 신의 권능: 보호막
+END
+VER 3 0100000000000012 "상치" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][help][@player] 상급 치유
+END
+VER 3 0100000000000018 "소생" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][@target,exists][@player] 소생
+END
+VER 3 0100000000000005 "속박" "Ability_Mage_FireStarter"
+#showtooltip
+/시전중지
+/cast [target=focus]언데드 속박
+END
+VER 3 0100000000000013 "순치" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][help][@player] 순간 치유
+END
+VER 3 010000000000001B "외침" "Ability_Creature_Cursed_01"
+/외침 탱힐 들어가요!!! 고문 대상 힐 해주세용~
+END
+VER 3 0100000000000004 "정배" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/시전중지
+/cancelaura 정신 지배
+/cast [target=focus]정신 지배
+END
+VER 3 010000000000000F "천상" "INV_Misc_QuestionMark"
+#showtooltip
+/run if GetSpellCooldown("천상의 찬가")==0 then SendChatMessage(GetSpellLink('천상의 찬가').." 사용 ","YELL")end
+/cast 천상의 찬가
+END
+VER 3 0100000000000014 "치기" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][help][@player] 치유의 기원
+END
+VER 3 010000000000001D "치유" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][@target,exists][@player] 치유
+END
+VER 3 0100000000000011 "회개" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,help][@target,exists][@player] 회개
+END
+VER 3 010000000000000E "희망" "INV_Misc_QuestionMark"
+#showtooltip
+/run if GetSpellCooldown("희망의 찬가")==0 then SendChatMessage(GetSpellLink('희망의 찬가').." 사용 ","YELL")end
+/cast 희망의 찬가
+END

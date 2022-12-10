@@ -1,0 +1,16 @@
+## Interface: 90207
+## X-Min-Interface: 90207
+## X-Min-Interface-Classic: 11403
+## X-Min-Interface-BCC: 20504
+## X-Min-Interface-Wrath: 30400
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Dingdiring|r
+## Title-koKR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0음성팩 유튜버 딩디링|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Dingdiring (https://www.youtube.com/c/Dingdiring)
+## Version: 9.2.7
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Dingdiring딩디링 (Korean female)
+## X-DBM-Voice-ShortName: DingdiringKR
+## X-DBM-Voice-Version: 12
+## X-DBM-Voice-HasCount: 1

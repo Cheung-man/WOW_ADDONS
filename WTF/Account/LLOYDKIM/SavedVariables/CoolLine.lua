@@ -1,0 +1,52 @@
+
+CoolLineDB = {
+	["bgcolor"] = {
+		["a"] = 0.5,
+		["r"] = 0,
+		["g"] = 0,
+		["b"] = 0,
+	},
+	["border"] = "Details BarBorder 1",
+	["borderinset"] = 0,
+	["h"] = 25,
+	["fontsize"] = 10,
+	["perchar"] = true,
+	["block"] = {
+		["귀환석"] = true,
+	},
+	["iconplus"] = 10,
+	["spellcolor"] = {
+		["a"] = 1,
+		["r"] = 0.8,
+		["g"] = 0.4,
+		["b"] = 0,
+	},
+	["nospellcolor"] = {
+		["a"] = 1,
+		["r"] = 0,
+		["g"] = 0,
+		["b"] = 0,
+	},
+	["inactivealpha"] = 0.5,
+	["bordercolor"] = {
+		["a"] = 0,
+		["r"] = 1,
+		["g"] = 1,
+		["b"] = 1,
+	},
+	["w"] = 268,
+	["x"] = -287,
+	["y"] = -173,
+	["activealpha"] = 1,
+	["dbinit"] = 3,
+	["reverse"] = true,
+	["bordersize"] = 1,
+	["font"] = "Friz Quadrata TT",
+	["fontcolor"] = {
+		["a"] = 0.8,
+		["r"] = 1,
+		["g"] = 1,
+		["b"] = 1,
+	},
+	["statusbar"] = "Button",
+}

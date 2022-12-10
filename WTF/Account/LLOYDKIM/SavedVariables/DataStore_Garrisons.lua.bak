@@ -1,0 +1,2536 @@
+
+DataStore_GarrisonsDB = {
+	["global"] = {
+		["Characters"] = {
+			["Default.하이잘.와우하는아저씌"] = {
+				["lastUpdate"] = 1660912394,
+				["AvailableCovenantMissions"] = {
+					2174, -- [1]
+				},
+			},
+			["Default.아즈샤라.Wagerssi"] = {
+				["lastUpdate"] = 1641406353,
+				["ActiveWarCampaignMissions"] = {
+					2124, -- [1]
+				},
+				["MissionsInfo"] = {
+					[2124] = {
+						["successChance"] = 200,
+						["followers"] = {
+							1065, -- [1]
+							1069, -- [2]
+							1067, -- [3]
+						},
+					},
+				},
+				["AvailableCovenantMissions"] = {
+					2168, -- [1]
+					2177, -- [2]
+					2178, -- [3]
+					2180, -- [4]
+					2184, -- [5]
+					2201, -- [6]
+					2217, -- [7]
+					2220, -- [8]
+					2230, -- [9]
+					2235, -- [10]
+					2280, -- [11]
+					2289, -- [12]
+					2293, -- [13]
+					2297, -- [14]
+					2311, -- [15]
+				},
+				["AvailableWarCampaignMissions"] = {
+					1926, -- [1]
+					1928, -- [2]
+					2085, -- [3]
+					2156, -- [4]
+					2129, -- [5]
+				},
+			},
+			["Default.아즈샤라.애똔테스트"] = {
+				["lastUpdate"] = 1636360447,
+			},
+			["Default.하이잘.Wagerssi"] = {
+				["lastUpdate"] = 1660912369,
+				["ActiveWarCampaignMissions"] = {
+					1877, -- [1]
+				},
+				["MissionsInfo"] = {
+					[1877] = {
+						["successChance"] = 100,
+						["followers"] = {
+							1065, -- [1]
+						},
+					},
+				},
+			},
+			["Default.아즈샤라.펀펀"] = {
+				["numRareFollowers"] = 1,
+				["ActiveMissions"] = {
+					2, -- [1]
+				},
+				["MissionsInfo"] = {
+					[2] = {
+						["successChance"] = 100,
+						["followers"] = {
+							34, -- [1]
+						},
+					},
+				},
+				["numEpicFollowers"] = 1,
+				["lastUpdate"] = 1641566593,
+				["AbilityCounters"] = {
+					1, -- [1]
+					[8] = 1,
+					[6] = 2,
+					[7] = 1,
+					[10] = 1,
+				},
+				["Followers"] = {
+					[182] = {
+						["link"] = "|cff1eff00|Hgarrfollower:182:2:30:600:105:0:0:0:54:0:0:0:0|h[멀베릭]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 400,
+					},
+					[180] = {
+						["link"] = "|cff1eff00|Hgarrfollower:180:2:30:600:103:0:0:0:53:0:0:0:0|h[어둠사냥꾼 랄라]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 400,
+					},
+					[34] = {
+						["link"] = "|cff1eff00|Hgarrfollower:34:2:30:600:100:0:0:0:59:0:0:0:0|h[올린 움버하이드]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 400,
+					},
+					[192] = {
+						["link"] = "|cff0070dd|Hgarrfollower:192:3:37:600:160:0:0:0:57:36:0:0:0|h[킴지 핀치휘슬]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 4000,
+					},
+					[216] = {
+						["link"] = "|cffa335ee|Hgarrfollower:216:4:31:600:5:170:0:0:231:41:38:0:0|h[비비안]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 800,
+					},
+				},
+				["Traits"] = {
+					[57] = 1,
+					[38] = 1,
+					[59] = 1,
+					[53] = 1,
+					[54] = 1,
+					[41] = 1,
+					[231] = 1,
+					[36] = 1,
+				},
+				["AvailableWarCampaignMissions"] = {
+					1925, -- [1]
+					1927, -- [2]
+					1930, -- [3]
+					2085, -- [4]
+					1955, -- [5]
+					2094, -- [6]
+					2093, -- [7]
+					2092, -- [8]
+					2095, -- [9]
+				},
+				["numFollowers"] = 5,
+				["Abilities"] = {
+					[103] = 1,
+					[105] = 1,
+					[100] = 1,
+					[160] = 1,
+					[5] = 1,
+					[170] = 1,
+				},
+			},
+			["Default.아즈샤라.미스터와저"] = {
+				["ActiveCovenantMissions"] = {
+					2246, -- [1]
+					2171, -- [2]
+					2290, -- [3]
+				},
+				["lastUpdate"] = 1641245223,
+				["MissionsInfo"] = {
+					[2290] = {
+						["successChance"] = 0,
+						["followers"] = {
+							1310, -- [1]
+							1301, -- [2]
+							1263, -- [3]
+							1303, -- [4]
+						},
+					},
+					[2171] = {
+						["successChance"] = 0,
+						["followers"] = {
+							1305, -- [1]
+							1257, -- [2]
+							1311, -- [3]
+							1306, -- [4]
+							1325, -- [5]
+						},
+					},
+					[2246] = {
+						["successChance"] = 0,
+						["followers"] = {
+							1261, -- [1]
+							1300, -- [2]
+							1302, -- [3]
+							1262, -- [4]
+							1304, -- [5]
+						},
+					},
+				},
+				["AvailableCovenantMissions"] = {
+					2168, -- [1]
+					2170, -- [2]
+					2262, -- [3]
+					2180, -- [4]
+					2184, -- [5]
+					2200, -- [6]
+				},
+				["AvailableWarCampaignMissions"] = {
+					2093, -- [1]
+					2095, -- [2]
+					2094, -- [3]
+					2129, -- [4]
+				},
+			},
+			["Default.아즈샤라.테스티애돈"] = {
+				["lastUpdate"] = 1635532068,
+			},
+			["Default.아즈샤라.회색빛의악마"] = {
+				["lastUpdate"] = 1641702341,
+				["ActiveWarCampaignMissions"] = {
+					1948, -- [1]
+				},
+				["ReservoirTalents"] = {
+					{
+						["treeID"] = 311,
+						["tier"] = 1,
+					}, -- [1]
+					{
+						["treeID"] = 307,
+						["tier"] = 1,
+					}, -- [2]
+					{
+						["treeID"] = 315,
+						["tier"] = 1,
+					}, -- [3]
+					[5] = {
+						["treeID"] = 319,
+						["tier"] = 1,
+					},
+				},
+				["Followers"] = {
+					[878] = {
+						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cffffffff|Hgarrfollower:878:1:35:700:603:0:0:0:0:0:0:0:0|h[잿빛혓바닥 전사]|h|r",
+					},
+					[595] = {
+						["levelXP"] = 200000,
+						["xp"] = 26449,
+						["link"] = "|cffa335ee|Hgarrfollower:595:4:45:805:462:767:0:0:705:414:0:0:358|h[카인 선퓨리]|h|r",
+					},
+					[807] = {
+						["levelXP"] = 8000,
+						["link"] = "|cffffffff|Hgarrfollower:807:1:45:760:462:0:0:0:0:0:0:0:359|h[제이스 다크위버]|h|r",
+						["xp"] = 0,
+						["isInactive"] = true,
+					},
+					[719] = {
+						["levelXP"] = 200000,
+						["xp"] = 104325,
+						["link"] = "|cffa335ee|Hgarrfollower:719:4:45:835:464:608:0:0:685:705:0:0:360|h[아카마의 망령]|h|r",
+					},
+					[721] = {
+						["levelXP"] = 100000,
+						["xp"] = 43835,
+						["link"] = "|cff0070dd|Hgarrfollower:721:3:45:765:463:609:0:0:704:0:0:0:358|h[코르바스 블러드쏜]|h|r",
+					},
+					[877] = {
+						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cff1eff00|Hgarrfollower:877:2:35:700:604:606:0:0:0:0:0:0:0|h[변신한 일리다리 숙련병]|h|r",
+					},
+					[594] = {
+						["levelXP"] = 0,
+						["xp"] = 0,
+						["link"] = "|cffa335ee|Hgarrfollower:594:6:45:865:464:610:0:0:679:678:414:0:359|h[벨라스 돈블레이드]|h|r",
+					},
+					[879] = {
+						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cffffffff|Hgarrfollower:879:1:35:700:603:0:0:0:0:0:0:0:0|h[잿빛혓바닥 전사]|h|r",
+					},
+					[720] = {
+						["levelXP"] = 3000,
+						["link"] = "|cffffffff|Hgarrfollower:720:1:44:760:668:0:0:0:0:0:0:0:360|h[모군주 말레볼런스]|h|r",
+						["xp"] = 0,
+						["isInactive"] = true,
+					},
+					[990] = {
+						["levelXP"] = 100000,
+						["xp"] = 9830,
+						["link"] = "|cff0070dd|Hgarrfollower:990:3:45:860:463:814:0:0:414:0:0:0:360|h[여군주 스테노]|h|r",
+					},
+					[722] = {
+						["levelXP"] = 200000,
+						["xp"] = 8623,
+						["link"] = "|cffa335ee|Hgarrfollower:722:4:45:800:463:607:0:0:685:414:0:0:359|h[아샤 레이븐송]|h|r",
+					},
+					[889] = {
+						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cff1eff00|Hgarrfollower:889:2:35:700:604:606:0:0:0:0:0:0:0|h[변신한 일리다리 숙련병]|h|r",
+					},
+					[499] = {
+						["levelXP"] = 8000,
+						["link"] = "|cffffffff|Hgarrfollower:499:1:45:760:464:0:0:0:0:0:0:0:358|h[영혼착취자 알라리]|h|r",
+						["xp"] = 0,
+						["isInactive"] = true,
+					},
+					[880] = {
+						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cffffffff|Hgarrfollower:880:1:35:700:603:0:0:0:0:0:0:0:0|h[잿빛혓바닥 전사]|h|r",
+					},
+				},
+				["MissionsInfo"] = {
+					[1563] = {
+						["successChance"] = 171,
+						["followers"] = {
+							990, -- [1]
+							877, -- [2]
+							889, -- [3]
+						},
+					},
+					[1340] = {
+						["successChance"] = 200,
+						["followers"] = {
+							722, -- [1]
+							595, -- [2]
+							719, -- [3]
+						},
+					},
+					[1948] = {
+						["successChance"] = 130,
+						["followers"] = {
+							1065, -- [1]
+							1069, -- [2]
+							1062, -- [3]
+						},
+					},
+					[2174] = {
+						["successChance"] = 0,
+						["followers"] = {
+							1265, -- [1]
+							1264, -- [2]
+							1266, -- [3]
+						},
+					},
+					[1425] = {
+						["successChance"] = 41,
+						["followers"] = {
+							721, -- [1]
+							878, -- [2]
+							880, -- [3]
+						},
+					},
+				},
+				["AvailableOrderHallMissions"] = {
+					1320, -- [1]
+					1401, -- [2]
+					1402, -- [3]
+					1382, -- [4]
+					1505, -- [5]
+					1423, -- [6]
+				},
+				["ActiveOrderHallMissions"] = {
+					1340, -- [1]
+					1425, -- [2]
+					1563, -- [3]
+				},
+				["AvailableWarCampaignMissions"] = {
+					1926, -- [1]
+					1930, -- [2]
+					1933, -- [3]
+					1938, -- [4]
+					1939, -- [5]
+					2146, -- [6]
+				},
+				["ActiveCovenantMissions"] = {
+					2174, -- [1]
+				},
+			},
+			["Default.아즈샤라.회색빛의법사"] = {
+				["ActiveCovenantMissions"] = {
+					2290, -- [1]
+				},
+				["lastUpdate"] = 1641693839,
+				["MissionsInfo"] = {
+					[2290] = {
+						["successChance"] = 0,
+						["followers"] = {
+							1217, -- [1]
+							1208, -- [2]
+							1250, -- [3]
+							1210, -- [4]
+						},
+					},
+				},
+				["AvailableCovenantMissions"] = {
+					2171, -- [1]
+					2169, -- [2]
+					2262, -- [3]
+					2180, -- [4]
+					2183, -- [5]
+					2201, -- [6]
+					2218, -- [7]
+					2235, -- [8]
+					2246, -- [9]
+					2296, -- [10]
+				},
+				["AvailableWarCampaignMissions"] = {
+					1926, -- [1]
+					1919, -- [2]
+					1933, -- [3]
+					2077, -- [4]
+					1938, -- [5]
+					2095, -- [6]
+					2150, -- [7]
+					2094, -- [8]
+					2093, -- [9]
+				},
+			},
+			["Default.하이잘.채널와저씨"] = {
+				["lastUpdate"] = 1645669968,
+			},
+			["Default.아즈샤라.회색빛의전사"] = {
+				["lastUpdate"] = 1641369325,
+				["AvailableWarCampaignMissions"] = {
+					1930, -- [1]
+					1928, -- [2]
+					1921, -- [3]
+					2081, -- [4]
+					2087, -- [5]
+					2095, -- [6]
+					2129, -- [7]
+					2155, -- [8]
+					2093, -- [9]
+				},
+			},
+			["Default.아즈샤라.건건"] = {
+				["numRareFollowers"] = 1,
+				["ActiveWarCampaignMissions"] = {
+					1953, -- [1]
+					1955, -- [2]
+				},
+				["ActiveMissions"] = {
+					2, -- [1]
+				},
+				["MissionsInfo"] = {
+					[1953] = {
+						["successChance"] = 110,
+						["followers"] = {
+							1072, -- [1]
+							1069, -- [2]
+							1067, -- [3]
+						},
+					},
+					[2] = {
+						["successChance"] = 100,
+						["followers"] = {
+							34, -- [1]
+						},
+					},
+					[1955] = {
+						["successChance"] = 130,
+						["followers"] = {
+							1068, -- [1]
+							1062, -- [2]
+							1065, -- [3]
+						},
+					},
+				},
+				["lastUpdate"] = 1636357014,
+				["AbilityCounters"] = {
+					1, -- [1]
+					[7] = 1,
+					[8] = 1,
+				},
+				["Followers"] = {
+					[182] = {
+						["levelXP"] = 400,
+						["xp"] = 0,
+						["link"] = "|cff1eff00|Hgarrfollower:182:2:30:600:105:0:0:0:54:0:0:0:0|h[멀베릭]|h|r",
+					},
+					[34] = {
+						["levelXP"] = 400,
+						["xp"] = 0,
+						["link"] = "|cff1eff00|Hgarrfollower:34:2:30:600:100:0:0:0:59:0:0:0:0|h[올린 움버하이드]|h|r",
+					},
+					[778] = {
+						["levelXP"] = 200,
+						["xp"] = 0,
+						["link"] = "|cffffffff|Hgarrfollower:778:1:35:760:461:0:0:0:0:0:0:0:351|h[가로나 하프오큰]|h|r",
+					},
+					[591] = {
+						["levelXP"] = 200,
+						["xp"] = 100,
+						["link"] = "|cffffffff|Hgarrfollower:591:1:35:760:459:0:0:0:0:0:0:0:349|h[바네사 밴클리프]|h|r",
+					},
+					[216] = {
+						["levelXP"] = 800,
+						["xp"] = 0,
+						["link"] = "|cff0070dd|Hgarrfollower:216:3:31:600:5:0:0:0:231:39:0:0:0|h[비비안]|h|r",
+					},
+				},
+				["Traits"] = {
+					[231] = 1,
+					[39] = 1,
+					[59] = 1,
+					[54] = 1,
+				},
+				["AvailableWarCampaignMissions"] = {
+					2094, -- [1]
+					2157, -- [2]
+					2095, -- [3]
+					1920, -- [4]
+					1934, -- [5]
+					1932, -- [6]
+					2083, -- [7]
+					1946, -- [8]
+					2093, -- [9]
+					2148, -- [10]
+					2092, -- [11]
+				},
+				["numFollowers"] = 3,
+				["Abilities"] = {
+					[5] = 1,
+					[105] = 1,
+					[100] = 1,
+				},
+			},
+			["Default.하이잘.와저씌"] = {
+				["lastUpdate"] = 1653602415,
+				["ActiveWarCampaignMissions"] = {
+					2123, -- [1]
+				},
+				["MissionsInfo"] = {
+					[2123] = {
+						["successChance"] = 182,
+						["followers"] = {
+							1065, -- [1]
+							1069, -- [2]
+							1072, -- [3]
+						},
+					},
+				},
+				["AvailableWarCampaignMissions"] = {
+					1893, -- [1]
+					1894, -- [2]
+					1887, -- [3]
+					1917, -- [4]
+					1910, -- [5]
+					2128, -- [6]
+				},
+			},
+			["Default.아즈샤라.Wazerssi"] = {
+				["numRareFollowers"] = 3,
+				["AvailableMissions"] = {
+					221, -- [1]
+					228, -- [2]
+					331, -- [3]
+					150, -- [4]
+					153, -- [5]
+					147, -- [6]
+					146, -- [7]
+					208, -- [8]
+					366, -- [9]
+					372, -- [10]
+				},
+				["AvailableOrderHallMissions"] = {
+					1045, -- [1]
+					1176, -- [2]
+					1056, -- [3]
+					1328, -- [4]
+				},
+				["AvailableCovenantMissions"] = {
+					2168, -- [1]
+					2176, -- [2]
+					2262, -- [3]
+					2180, -- [4]
+					2228, -- [5]
+				},
+				["numEpicFollowers"] = 2,
+				["lastUpdate"] = 1637290556,
+				["AbilityCounters"] = {
+					2, -- [1]
+					1, -- [2]
+					nil, -- [3]
+					1, -- [4]
+					nil, -- [5]
+					1, -- [6]
+					3, -- [7]
+					1, -- [8]
+					1, -- [9]
+					1, -- [10]
+				},
+				["Followers"] = {
+					[182] = {
+						["link"] = "|cff0070dd|Hgarrfollower:182:3:30:600:105:0:0:0:54:72:0:0:0|h[멀베릭]|h|r",
+						["xp"] = 200,
+						["levelXP"] = 400,
+					},
+					[34] = {
+						["link"] = "|cff1eff00|Hgarrfollower:34:2:30:600:100:0:0:0:59:0:0:0:0|h[올린 움버하이드]|h|r",
+						["xp"] = 200,
+						["levelXP"] = 400,
+					},
+					[639] = {
+						["isInactive"] = true,
+						["link"] = "|cffffffff|Hgarrfollower:639:1:42:760:469:0:0:0:0:0:0:0:355|h[나랄렉스]|h|r",
+						["xp"] = 1868,
+						["levelXP"] = 2000,
+					},
+					[640] = {
+						["isInactive"] = true,
+						["link"] = "|cffffffff|Hgarrfollower:640:1:40:760:468:0:0:0:0:0:0:0:356|h[젠타브라]|h|r",
+						["xp"] = 240,
+						["levelXP"] = 1500,
+					},
+					[641] = {
+						["link"] = "|cff0070dd|Hgarrfollower:641:3:45:760:470:539:0:0:685:0:0:0:356|h[브롤 베어맨틀]|h|r",
+						["xp"] = 16440,
+						["levelXP"] = 100000,
+					},
+					[180] = {
+						["link"] = "|cff1eff00|Hgarrfollower:180:2:30:600:103:0:0:0:53:0:0:0:0|h[어둠사냥꾼 랄라]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 400,
+					},
+					[642] = {
+						["link"] = "|cffffffff|Hgarrfollower:642:1:45:760:468:0:0:0:0:0:0:0:357|h[실렌드라 글레이드송]|h|r",
+						["xp"] = 4160,
+						["levelXP"] = 8000,
+					},
+					[153] = {
+						["link"] = "|cffa335ee|Hgarrfollower:153:4:32:600:159:161:0:0:60:37:77:0:0|h[카라]|h|r",
+						["xp"] = 150,
+						["levelXP"] = 1200,
+					},
+					[643] = {
+						["link"] = "|cff1eff00|Hgarrfollower:643:2:45:760:469:542:0:0:0:0:0:0:356|h[대드루이드 하뮬 룬토템]|h|r",
+						["xp"] = 11784,
+						["levelXP"] = 20000,
+					},
+					[176] = {
+						["link"] = "|cff0070dd|Hgarrfollower:176:3:33:600:140:0:0:0:62:256:0:0:0|h[브루토]|h|r",
+						["xp"] = 400,
+						["levelXP"] = 1600,
+					},
+					[644] = {
+						["link"] = "|cffa335ee|Hgarrfollower:644:4:45:760:470:541:0:0:414:415:0:0:355|h[마일룬]|h|r",
+						["xp"] = 28856,
+						["levelXP"] = 200000,
+					},
+					[646] = {
+						["isInactive"] = true,
+						["link"] = "|cffffffff|Hgarrfollower:646:1:45:760:468:0:0:0:0:0:0:0:355|h[수호자 레물로스]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 8000,
+					},
+					[645] = {
+						["link"] = "|cffffffff|Hgarrfollower:645:1:45:760:469:0:0:0:0:0:0:0:357|h[빛나래]|h|r",
+						["xp"] = 7584,
+						["levelXP"] = 8000,
+					},
+					[212] = {
+						["link"] = "|cffa335ee|Hgarrfollower:212:4:34:600:104:160:0:0:40:45:70:0:0|h[앙상한 수크의 영혼]|h|r",
+						["xp"] = 500,
+						["levelXP"] = 2000,
+					},
+					[216] = {
+						["link"] = "|cff0070dd|Hgarrfollower:216:3:32:600:5:0:0:0:231:221:0:0:0|h[비비안]|h|r",
+						["xp"] = 200,
+						["levelXP"] = 1200,
+					},
+					[463] = {
+						["link"] = "|cff1eff00|Hgarrfollower:463:2:31:600:148:0:0:0:8:0:0:0:0|h[울나 트레셔]|h|r",
+						["xp"] = 200,
+						["levelXP"] = 800,
+					},
+					[184] = {
+						["link"] = "|cff1eff00|Hgarrfollower:184:2:30:600:154:0:0:0:70:0:0:0:0|h[명예로운 칼고르]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 400,
+					},
+				},
+				["Traits"] = {
+					[77] = 1,
+					[8] = 1,
+					[37] = 1,
+					[54] = 1,
+					[45] = 1,
+					[231] = 1,
+					[60] = 1,
+					[62] = 1,
+					[70] = 2,
+					[256] = 1,
+					[72] = 1,
+					[40] = 1,
+					[53] = 1,
+					[59] = 1,
+					[221] = 1,
+				},
+				["AvailableWarCampaignMissions"] = {
+					1920, -- [1]
+					1919, -- [2]
+					1959, -- [3]
+				},
+				["numFollowers"] = 9,
+				["Abilities"] = {
+					[103] = 1,
+					[161] = 1,
+					[154] = 1,
+					[100] = 1,
+					[140] = 1,
+					[148] = 1,
+					[105] = 1,
+					[5] = 1,
+					[159] = 1,
+					[160] = 1,
+					[104] = 1,
+				},
+			},
+			["Default.아즈샤라.와저씨테스트중임"] = {
+				["lastUpdate"] = 1641573257,
+			},
+			["Default.아즈샤라.십일월테스트용"] = {
+				["lastUpdate"] = 1636889040,
+			},
+			["Default.아즈샤라.회색빛의도사"] = {
+				["lastUpdate"] = 1641566712,
+				["Followers"] = {
+					[596] = {
+						["link"] = "|cffffffff|Hgarrfollower:596:1:36:760:417:0:0:0:0:0:0:0:335|h[첸 스톰스타우트]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 400,
+					},
+					[622] = {
+						["link"] = "|cffffffff|Hgarrfollower:622:1:35:700:572:0:0:0:0:0:0:0:0|h[흑우 수습생]|h|r",
+						["xp"] = 0,
+						["levelXP"] = 200,
+					},
+					[588] = {
+						["link"] = "|cffffffff|Hgarrfollower:588:1:35:760:412:0:0:0:0:0:0:0:336|h[리 리 스톰스타우트]|h|r",
+						["xp"] = 100,
+						["levelXP"] = 200,
+					},
+				},
+				["AvailableOrderHallMissions"] = {
+					1055, -- [1]
+					1325, -- [2]
+				},
+				["AvailableWarCampaignMissions"] = {
+					1926, -- [1]
+					1927, -- [2]
+					1932, -- [3]
+					1954, -- [4]
+					1950, -- [5]
+				},
+			},
+			["Default.아즈샤라.회색빛의보스"] = {
+				["lastUpdate"] = 1641246449,
+			},
+			["Default.아즈샤라.애똔테스"] = {
+				["lastUpdate"] = 1635539223,
+			},
+			["Default.아즈샤라.테스트용아이디용"] = {
+				["lastUpdate"] = 1641573101,
+			},
+		},
+		["Reference"] = {
+			["FollowerNamesToID"] = {
+				["가로나 하프오큰"] = 466,
+				["아샤 레이븐송"] = 722,
+				["아부가르"] = 209,
+				["여군주 스테노"] = 990,
+				["멀베릭"] = 182,
+				["비비안"] = 216,
+				["무두장이 골드메인"] = 170,
+				["명예로운 칼고르"] = 184,
+				["카르그 블러드퓨리"] = 459,
+				["젠타브라"] = 640,
+				["영혼술사 툴라니"] = 205,
+				["초루나"] = 217,
+				["첸 스톰스타우트"] = 596,
+				["늘푸른 파이랄크"] = 194,
+				["수호자 레물로스"] = 646,
+				["암"] = 208,
+				["실라라 스틸송"] = 604,
+				["대드루이드 하뮬 룬토템"] = 643,
+				["타란 주"] = 603,
+				["크로만"] = 177,
+				["로크라"] = 185,
+				["어둠사냥꾼 랄라"] = 180,
+				["타오스"] = 892,
+				["애디 피즐보그"] = 746,
+				["교수 펠블래스트"] = 460,
+				["해골웃음"] = 458,
+				["헤멧 네싱워리"] = 745,
+				["알렉시 바로브"] = 195,
+				["아크놀 스틸브링어"] = 225,
+				["실렌드라 글레이드송"] = 642,
+				["양조사 알마이"] = 998,
+				["카라"] = 153,
+				["무기제작자 나쉬라"] = 179,
+				["새벽추적자 루카릭스"] = 462,
+				["대마법사 바르고스의 환영"] = 190,
+				["모르케스 블레이드하울"] = 155,
+				["나랄렉스"] = 639,
+				["밀하우스 마나스톰"] = 455,
+				["내트 페이글"] = 202,
+				["브롤 베어맨틀"] = 641,
+				["변신한 일리다리 숙련병"] = 889,
+				["어둠 순찰자 벨로나라"] = 453,
+				["미트볼"] = 203,
+				["로렌 스톰후프"] = 742,
+				["단장 마티아스 쇼"] = 893,
+				["조라크 라벤홀트 경"] = 779,
+				["티살리 크로우"] = 999,
+				["펜 타오"] = 467,
+				["올린 움버하이드"] = 34,
+				["벨라스 돈블레이드"] = 594,
+				["블루크"] = 189,
+				["갈퀴 경비병 쿠레크"] = 224,
+				["사냥꾼 블레이크"] = 747,
+				["함대 사령관 테시스"] = 780,
+				["바네사 밴클리프"] = 591,
+				["마일룬"] = 644,
+				["울부짖는 카즈"] = 159,
+				["킴지 핀치휘슬"] = 192,
+				["빛나래"] = 645,
+				["영혼착취자 알라리"] = 499,
+				["앵거스 아이언피스트"] = 605,
+				["발리라 생귀나르"] = 891,
+				["마린 노겐포저"] = 890,
+				["기쁨로봇 8000"] = 171,
+				["해리슨 존스"] = 465,
+				["흑우 수습생"] = 622,
+				["브루토"] = 176,
+				["모군주 말레볼런스"] = 720,
+				["태양 사제 베익스"] = 582,
+				["비통의 오로노크"] = 468,
+				["원숭이 왕"] = 602,
+				["릴리안 보스"] = 988,
+				["야수조련사 힐라이르"] = 744,
+				["지리아크"] = 168,
+				["그론추적자 로카쉬"] = 183,
+				["에마렐 셰이드워든"] = 593,
+				["렉사르"] = 743,
+				["아리오크"] = 474,
+				["다그"] = 32,
+				["울나 트레셔"] = 463,
+				["제이스 다크위버"] = 807,
+				["앙상한 수크의 영혼"] = 212,
+				["밤사냥꾼 시렌느"] = 996,
+				["아이기라"] = 607,
+				["토르모크"] = 193,
+				["잿빛혓바닥 전사"] = 880,
+				["할두런 브라이트윙"] = 748,
+				["레오라즈"] = 219,
+				["마법학자 크렐라스"] = 154,
+				["페니 클라버바텀"] = 211,
+				["아카마의 망령"] = 719,
+				["팔라스"] = 580,
+				["히로"] = 606,
+				["벤자민 깁"] = 204,
+				["칼날의 란트레서"] = 157,
+				["갈퀴사제 이샤알"] = 218,
+				["유전탐지사 굿웰"] = 581,
+				["리로이 젠킨스"] = 178,
+				["대모 게야"] = 186,
+				["카인 선퓨리"] = 595,
+				["코르바스 블러드쏜"] = 721,
+				["에이다 브라이트돈"] = 207,
+				["리 리 스톰스타우트"] = 588,
+			},
+			["MissionInfos"] = {
+				[1920] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 275,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2] = {
+					["durationSeconds"] = 1800,
+					["type"] = "전투",
+					["cost"] = 0,
+					["rewards"] = {
+						{
+							["itemID"] = 112737,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["level"] = 30,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2174] = {
+					["durationSeconds"] = 30,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 1,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184360,
+							["itemLink"] = "|cff1eff00|Hitem:184360::::::::60:254:::::::::|h[반복에 대한 고찰]|h|r",
+						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 800,
+				},
+				[1921] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 248,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[1953] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Quick Strike",
+					["cost"] = 80,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 454,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["level"] = 50,
+				},
+				[2176] = {
+					["durationSeconds"] = 27000,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 30,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 185854,
+							["itemLink"] = "|cffffffff|Hitem:185854::::::::60:102::25:3:1472:5884:6646::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["iLevel"] = 800,
+				},
+				[2081] = {
+					["durationSeconds"] = 64800,
+					["type"] = "8.0 - Quick Strike",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 375,
+							["icon"] = 2032601,
+							["currencyID"] = 1597,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["iLevel"] = 800,
+				},
+				[1382] = {
+					["durationSeconds"] = 43200,
+					["type"] = "7.0 직업 전당 - 특별 보상 임무",
+					["cost"] = 250,
+					["iLevel"] = 760,
+					["rewards"] = {
+						{
+							["itemID"] = 130169,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-BonusIcon-Desaturated",
+					["level"] = 45,
+				},
+				[146] = {
+					["durationSeconds"] = 3600,
+					["type"] = "전투",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 200,
+							["tooltip"] = "경험치 +200",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +200",
+						}, -- [1]
+					},
+					["level"] = 31,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2177] = {
+					["durationSeconds"] = 12150,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 8,
+							["itemID"] = 184152,
+							["itemLink"] = "|cff1eff00|Hitem:184152::::::::60:254:::::::::|h[희석한 령포도주 병]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["level"] = 60,
+				},
+				[150] = {
+					["durationSeconds"] = 3600,
+					["type"] = "전투",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 400,
+							["tooltip"] = "경험치 +400",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +400",
+						}, -- [1]
+					},
+					["level"] = 33,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[1954] = {
+					["durationSeconds"] = 129600,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 80,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 328,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[2146] = {
+					["durationSeconds"] = 172800,
+					["type"] = "8.2 - Deep Sea",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 463,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-DeepSea",
+					["level"] = 50,
+				},
+				[2178] = {
+					["durationSeconds"] = 10800,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["quantity"] = 2573800,
+							["title"] = "골드 보상",
+							["currencyID"] = 0,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["level"] = 60,
+				},
+				[2083] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Stealth",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Stealth",
+					["rewards"] = {
+						{
+							["icon"] = 2032597,
+							["quantity"] = 375,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1595,
+						}, -- [1]
+					},
+				},
+				[1939] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 80,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2032599,
+							["quantity"] = 225,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1596,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[1955] = {
+					["durationSeconds"] = 144000,
+					["type"] = "8.0 - Long Campaign",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 437,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-LongCampaign",
+					["iLevel"] = 800,
+				},
+				[2148] = {
+					["durationSeconds"] = 86400,
+					["type"] = "8.2 - Deep Sea",
+					["cost"] = 40,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 461,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-DeepSea",
+					["iLevel"] = 800,
+				},
+				[2180] = {
+					["durationSeconds"] = 39600,
+					["type"] = "9.0 Encounter - Bastion",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184634,
+							["itemLink"] = "|cffffffff|Hitem:184634::::::::60:64::31:::::::|h[모험가의 약초채집 보관함]|h|r",
+						}, -- [1]
+					},
+				},
+				[2085] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Quick Strike",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 350,
+							["icon"] = 2032599,
+							["currencyID"] = 1596,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["iLevel"] = 800,
+				},
+				[366] = {
+					["durationSeconds"] = 36000,
+					["type"] = "전투",
+					["cost"] = 20,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 200,
+							["tooltip"] = "경험치 +200",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +200",
+						}, -- [1]
+					},
+					["level"] = 30,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2150] = {
+					["durationSeconds"] = 86400,
+					["type"] = "8.2 - Deep Sea",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-DeepSea",
+					["rewards"] = {
+						{
+							["icon"] = 463858,
+							["quantity"] = 8,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1721,
+						}, -- [1]
+					},
+				},
+				[2087] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 18,
+							["itemID"] = 163036,
+							["itemLink"] = "|cffffffff|Hitem:163036::::::::50:269:::::::::|h[광택나는 애완동물 부적]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2246] = {
+					["durationSeconds"] = 43200,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 181673,
+							["itemLink"] = "|cff0070dd|Hitem:181673::::::::60:64::26:3:1472:5858:6616::::::|h[핏빛비단 어깨덧옷]|h|r",
+						}, -- [1]
+						{
+							["icon"] = 255347,
+							["quantity"] = 1,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1889,
+						}, -- [2]
+					},
+				},
+				[1401] = {
+					["durationSeconds"] = 14400,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 200,
+					["iLevel"] = 830,
+					["rewards"] = {
+						{
+							["icon"] = 236521,
+							["quantity"] = 10,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 45,
+				},
+				[1925] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 245,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[2184] = {
+					["durationSeconds"] = 24300,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 30,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184633,
+							["itemLink"] = "|cff1eff00|Hitem:184633::::::::60:254::31:::::::|h[용사의 고기 보관함]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["level"] = 60,
+				},
+				[208] = {
+					["durationSeconds"] = 5400,
+					["type"] = "전투",
+					["cost"] = 15,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 600,
+							["tooltip"] = "경험치 +600",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +600",
+						}, -- [1]
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 125,
+							["icon"] = 1005027,
+							["currencyID"] = 824,
+						}, -- [2]
+					},
+					["level"] = 33,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2280] = {
+					["durationSeconds"] = 32400,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184641,
+							["itemLink"] = "|cff1eff00|Hitem:184641::::::::60:254::31:::::::|h[용사의 채광 보관함]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["level"] = 60,
+				},
+				[1926] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Stealth",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 434,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Stealth",
+					["level"] = 50,
+				},
+				[2217] = {
+					["durationSeconds"] = 10800,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["quantity"] = 2843700,
+							["title"] = "골드 보상",
+							["currencyID"] = 0,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 60,
+				},
+				[2218] = {
+					["durationSeconds"] = 25200,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 30,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 181415,
+							["itemLink"] = "|cff0070dd|Hitem:181415::::::::60:64::26:3:1472:5858:6616::::::|h[페이이끼 다리보호구]|h|r",
+						}, -- [1]
+					},
+				},
+				[2123] = {
+					["durationSeconds"] = 3600,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 1000,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2155] = {
+					["durationSeconds"] = 64800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 375,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[228] = {
+					["durationSeconds"] = 2700,
+					["type"] = "순찰",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 300,
+							["tooltip"] = "경험치 +300",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +300",
+						}, -- [1]
+					},
+					["level"] = 31,
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
+				},
+				[331] = {
+					["durationSeconds"] = 1800,
+					["type"] = "순찰",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 100,
+							["icon"] = 1005027,
+							["currencyID"] = 824,
+						}, -- [1]
+						{
+							["itemID"] = 27944,
+							["quantity"] = 1,
+						}, -- [2]
+					},
+					["level"] = 30,
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
+				},
+				[1959] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["rewards"] = {
+						{
+							["icon"] = 2032593,
+							["quantity"] = 100,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1600,
+						}, -- [1]
+					},
+				},
+				[2156] = {
+					["durationSeconds"] = 57600,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 168327,
+							["itemLink"] = "|cffa335ee|Hitem:168327::::::::60:577:::::::::|h[사슬 작열코일]|h|r",
+						}, -- [1]
+					},
+				},
+				[2093] = {
+					["durationSeconds"] = 21600,
+					["type"] = "8.0 - Hub Unlock",
+					["cost"] = 100,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-HUB",
+					["rewards"] = {
+						{
+							["itemID"] = 163190,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+				},
+				[2157] = {
+					["durationSeconds"] = 86400,
+					["type"] = "8.2 Azerite Essence - Treasure",
+					["cost"] = 400,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Treasure",
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 168616,
+							["itemLink"] = "|cffe6cc80|Hitem:168616::::::::50:260::31::1:28:464:::::|h[굳건한 세계맥]|h|r",
+						}, -- [1]
+					},
+				},
+				[1928] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 100,
+							["icon"] = 2032599,
+							["currencyID"] = 1596,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[1055] = {
+					["durationSeconds"] = 14400,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 100,
+					["level"] = 35,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 5,
+							["icon"] = 236521,
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[1325] = {
+					["durationSeconds"] = 7200,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 100,
+					["level"] = 35,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 200,
+							["tooltip"] = "경험치 +200",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +200",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[2095] = {
+					["durationSeconds"] = 21600,
+					["type"] = "8.0 - Hub Unlock",
+					["cost"] = 100,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-HUB",
+					["rewards"] = {
+						{
+							["itemID"] = 163334,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+				},
+				[1910] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 80,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2032592,
+							["quantity"] = 225,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1579,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[1056] = {
+					["durationSeconds"] = 40320,
+					["type"] = "7.0 직업 전당 - 보물 임무",
+					["cost"] = 150,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 147348,
+							["itemLink"] = "|cffffffff|Hitem:147348::::::::60:102:::::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["level"] = 44,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[2128] = {
+					["durationSeconds"] = 129600,
+					["type"] = "8.2 - Holiday Mission",
+					["cost"] = 200,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-HUB",
+					["rewards"] = {
+						{
+							["icon"] = 463446,
+							["quantity"] = 50,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1166,
+						}, -- [1]
+					},
+				},
+				[1894] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 257,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[1340] = {
+					["durationSeconds"] = 10800,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 100,
+					["iLevel"] = 760,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 3000,
+							["tooltip"] = "경험치 +3,000",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +3,000",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 45,
+				},
+				[2183] = {
+					["durationSeconds"] = 16200,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["rewards"] = {
+						{
+							["quantity"] = 9,
+							["itemID"] = 184387,
+							["itemLink"] = "|cff1eff00|Hitem:184387::::::::60:64:::::::::|h[안개의 반짝잎]|h|r",
+						}, -- [1]
+					},
+				},
+				[2129] = {
+					["durationSeconds"] = 129600,
+					["type"] = "8.2 - Holiday Mission",
+					["cost"] = 100,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 50,
+							["icon"] = 463446,
+							["currencyID"] = 1166,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-HUB",
+					["iLevel"] = 800,
+				},
+				[147] = {
+					["durationSeconds"] = 3600,
+					["type"] = "전투",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 300,
+							["tooltip"] = "경험치 +300",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +300",
+						}, -- [1]
+					},
+					["level"] = 32,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[1930] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 258,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[1946] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 80,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["rewards"] = {
+						{
+							["icon"] = 2032597,
+							["quantity"] = 200,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1595,
+						}, -- [1]
+					},
+				},
+				[153] = {
+					["durationSeconds"] = 3600,
+					["type"] = "전투",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 500,
+							["tooltip"] = "경험치 +500",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +500",
+						}, -- [1]
+					},
+					["level"] = 34,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2289] = {
+					["durationSeconds"] = 32400,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184642,
+							["itemLink"] = "|cff1eff00|Hitem:184642::::::::60:254::31:::::::|h[용사의 약초채집 보관함]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["level"] = 60,
+				},
+				[1320] = {
+					["durationSeconds"] = 43200,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 100,
+					["iLevel"] = 760,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 3000,
+							["tooltip"] = "경험치 +3,000",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +3,000",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 45,
+				},
+				[2311] = {
+					["durationSeconds"] = 12150,
+					["type"] = "9.0 전투 - 나락 습격",
+					["cost"] = 25,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 4067362,
+							["quantity"] = 20,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1906,
+						}, -- [1]
+						{
+							["quantity"] = 6,
+							["itemID"] = 181468,
+							["itemLink"] = "|cff0070dd|Hitem:181468::::::::60:254:::::::::|h[장막에 감싸인 증강의 룬]|h|r",
+						}, -- [2]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 60,
+				},
+				[2220] = {
+					["durationSeconds"] = 24300,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 30,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 4,
+							["itemID"] = 181468,
+							["itemLink"] = "|cff0070dd|Hitem:181468::::::::60:254:::::::::|h[장막에 감싸인 증강의 룬]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 60,
+				},
+				[2290] = {
+					["durationSeconds"] = 46800,
+					["type"] = "9.0 Encounter - Bastion",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-QuestIcon-Desaturated",
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184632,
+							["itemLink"] = "|cff1eff00|Hitem:184632::::::::60:64::31:::::::|h[용사의 물고기 보관함]|h|r",
+						}, -- [1]
+					},
+				},
+				[1423] = {
+					["durationSeconds"] = 57600,
+					["type"] = "7.0 직업 전당 - 보물 임무",
+					["cost"] = 150,
+					["iLevel"] = 850,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 139835,
+							["itemLink"] = "|cff1eff00|Hitem:139835::::::::60:577:::::::::|h[노략꾼의 자취]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 45,
+				},
+				[2171] = {
+					["durationSeconds"] = 36000,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 1200,
+							["tooltip"] = "경험치 +1,200",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +1,200",
+						}, -- [1]
+					},
+				},
+				[1328] = {
+					["durationSeconds"] = 14400,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 100,
+					["iLevel"] = 760,
+					["level"] = 45,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 3000,
+							["tooltip"] = "경험치 +3,000",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +3,000",
+						}, -- [1]
+					},
+				},
+				[2094] = {
+					["durationSeconds"] = 21600,
+					["type"] = "8.0 - Hub Unlock",
+					["cost"] = 100,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-HUB",
+					["rewards"] = {
+						{
+							["itemID"] = 163193,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+				},
+				[2124] = {
+					["durationSeconds"] = 3600,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 600,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 1000,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2228] = {
+					["durationSeconds"] = 14400,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 25,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 181502,
+							["itemLink"] = "|cffffffff|Hitem:181502::::::::60:102::25:3:1472:5884:6646::::::|h[]|h|r",
+						}, -- [1]
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 1,
+							["icon"] = 255347,
+							["currencyID"] = 1889,
+						}, -- [2]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["iLevel"] = 800,
+				},
+				[1938] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2032593,
+							["quantity"] = 200,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1600,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2170] = {
+					["durationSeconds"] = 46800,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 50,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 184634,
+							["itemLink"] = "|cffffffff|Hitem:184634::::::::60:262::31:::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["iLevel"] = 800,
+				},
+				[1932] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 227,
+							["icon"] = 2065624,
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[1948] = {
+					["durationSeconds"] = 32400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 160,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2032592,
+							["quantity"] = 375,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1579,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[1176] = {
+					["durationSeconds"] = 11520,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 100,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 5,
+							["icon"] = 236521,
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["level"] = 40,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[2293] = {
+					["durationSeconds"] = 10800,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 1033908,
+							["quantity"] = 4,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1819,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["level"] = 60,
+				},
+				[1933] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2032601,
+							["quantity"] = 75,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1597,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2230] = {
+					["durationSeconds"] = 32400,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 50,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 188652,
+							["itemLink"] = "|cff0070dd|Hitem:188652::::::::60:254:::::::::|h[지식의 흑마법서]|h|r",
+						}, -- [1]
+						{
+							["icon"] = 255347,
+							["quantity"] = 1,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1889,
+						}, -- [2]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 60,
+				},
+				[2262] = {
+					["durationSeconds"] = 14400,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["rewards"] = {
+						{
+							["quantity"] = 7,
+							["itemID"] = 184151,
+							["itemLink"] = "|cff1eff00|Hitem:184151::::::::60:64:::::::::|h[위조된 루비 브로치]|h|r",
+						}, -- [1]
+					},
+				},
+				[1917] = {
+					["durationSeconds"] = 144000,
+					["type"] = "8.0 - Long Campaign",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 456,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-LongCampaign",
+					["level"] = 50,
+				},
+				[1425] = {
+					["durationSeconds"] = 14400,
+					["type"] = "7.0 직업 전당 - 보물 임무",
+					["cost"] = 200,
+					["iLevel"] = 760,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 147348,
+							["itemLink"] = "|cffffffff|Hitem:147348::::::::60:577:::::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 45,
+				},
+				[2201] = {
+					["durationSeconds"] = 27000,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 30,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 1200,
+							["tooltip"] = "경험치 +1,200",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +1,200",
+						}, -- [1]
+					},
+				},
+				[2169] = {
+					["durationSeconds"] = 16200,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 1000,
+							["tooltip"] = "경험치 +1,000",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +1,000",
+						}, -- [1]
+					},
+				},
+				[2168] = {
+					["durationSeconds"] = 10800,
+					["type"] = "9.0 Encounter - Maldraxxus",
+					["cost"] = 10,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["quantity"] = 8,
+							["itemID"] = 184307,
+							["itemLink"] = "|cff1eff00|Hitem:184307::::::::60:254:::::::::|h[말드락시 방어구 조각]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 60,
+				},
+				[2200] = {
+					["durationSeconds"] = 12600,
+					["type"] = "9.0 Encounter - Ardenweald",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 250,
+							["icon"] = 3257748,
+							["currencyID"] = 1804,
+						}, -- [1]
+					},
+					["level"] = 60,
+					["typeAtlas"] = "ShipMissionIcon-Legendary-Map",
+					["iLevel"] = 800,
+				},
+				[1505] = {
+					["durationSeconds"] = 115200,
+					["type"] = "7.0 직업 전당 - 특별 보상 임무",
+					["cost"] = 200,
+					["iLevel"] = 850,
+					["rewards"] = {
+						{
+							["itemID"] = 143328,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-BonusIcon-Desaturated",
+					["level"] = 45,
+				},
+				[1934] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2032593,
+							["quantity"] = 100,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1600,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2296] = {
+					["durationSeconds"] = 86400,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 100,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["rewards"] = {
+						{
+							["icon"] = 3743738,
+							["quantity"] = 120,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1828,
+						}, -- [1]
+						{
+							["itemID"] = 178040,
+							["quantity"] = 1,
+						}, -- [2]
+					},
+				},
+				[1045] = {
+					["durationSeconds"] = 11520,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 100,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 5,
+							["icon"] = 236521,
+							["currencyID"] = 1533,
+						}, -- [1]
+					},
+					["level"] = 39,
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 760,
+				},
+				[1950] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 200,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["quantity"] = 4,
+							["itemID"] = 160053,
+							["itemLink"] = "|cff0070dd|Hitem:160053::::::::50:269:::::::::|h[전투 흉터 증강의 룬]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[372] = {
+					["durationSeconds"] = 36000,
+					["type"] = "전투",
+					["cost"] = 20,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 1000,
+							["tooltip"] = "경험치 +1,000",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +1,000",
+						}, -- [1]
+					},
+					["level"] = 34,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 0,
+				},
+				[2297] = {
+					["durationSeconds"] = 64800,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 200,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 3743738,
+							["quantity"] = 125,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1828,
+						}, -- [1]
+						{
+							["itemID"] = 178040,
+							["quantity"] = 1,
+						}, -- [2]
+					},
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["level"] = 60,
+				},
+				[221] = {
+					["durationSeconds"] = 2700,
+					["type"] = "순찰",
+					["cost"] = 10,
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 300,
+							["tooltip"] = "경험치 +300",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +300",
+						}, -- [1]
+					},
+					["level"] = 31,
+					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
+				},
+				[1887] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 249,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2092] = {
+					["durationSeconds"] = 21600,
+					["type"] = "8.0 - Hub Unlock",
+					["cost"] = 100,
+					["rewards"] = {
+						{
+							["itemID"] = 163184,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-HUB",
+					["iLevel"] = 800,
+				},
+				[1919] = {
+					["durationSeconds"] = 28800,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 247,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+				},
+				[1927] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["level"] = 50,
+					["rewards"] = {
+						{
+							["title"] = "화폐 보상",
+							["quantity"] = 225,
+							["icon"] = 2032592,
+							["currencyID"] = 1579,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["iLevel"] = 800,
+				},
+				[2235] = {
+					["durationSeconds"] = 28800,
+					["type"] = "9.0 Encounter - Revendreth",
+					["cost"] = 30,
+					["iLevel"] = 800,
+					["level"] = 60,
+					["typeAtlas"] = "BfAMission-Icon-QuickStrike",
+					["rewards"] = {
+						{
+							["title"] = "추종자 추가 경험치",
+							["followerXP"] = 1200,
+							["tooltip"] = "경험치 +1,200",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "경험치 +1,200",
+						}, -- [1]
+					},
+				},
+				[1402] = {
+					["durationSeconds"] = 93600,
+					["type"] = "7.0 직업 전당 - 보물 임무",
+					["cost"] = 150,
+					["iLevel"] = 835,
+					["rewards"] = {
+						{
+							["quantity"] = 1,
+							["itemID"] = 139816,
+							["itemLink"] = "|cffffffff|Hitem:139816::::::::60:577:::::::::|h[]|h|r",
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
+					["level"] = 45,
+				},
+				[1893] = {
+					["durationSeconds"] = 14400,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["icon"] = 2065624,
+							["quantity"] = 257,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1553,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+				[2077] = {
+					["durationSeconds"] = 43200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 40,
+					["iLevel"] = 800,
+					["level"] = 50,
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["rewards"] = {
+						{
+							["icon"] = 2032592,
+							["quantity"] = 400,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1579,
+						}, -- [1]
+					},
+				},
+				[1563] = {
+					["durationSeconds"] = 57600,
+					["type"] = "7.0 직업 전당 - 일반 임무",
+					["cost"] = 500,
+					["iLevel"] = 845,
+					["rewards"] = {
+						{
+							["icon"] = 1397630,
+							["quantity"] = 450,
+							["title"] = "화폐 보상",
+							["currencyID"] = 1220,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["level"] = 45,
+				},
+				[1877] = {
+					["durationSeconds"] = 7200,
+					["type"] = "8.0 - Generic Missions",
+					["cost"] = 20,
+					["iLevel"] = 800,
+					["rewards"] = {
+						{
+							["itemID"] = 160982,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "BfAMission-Icon-Normal",
+					["level"] = 50,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Wagerssi - 아즈샤라"] = "와우하는아저씨",
+		["와저씨테스트중임 - 아즈샤라"] = "와우하는아저씨",
+		["회색빛의법사 - 아즈샤라"] = "와우하는아저씨",
+		["애똔테스 - 아즈샤라"] = "와우하는아저씨",
+		["회색빛의전사 - 아즈샤라"] = "회색빛의전사 - 아즈샤라",
+		["회색빛의악마 - 아즈샤라"] = "와우하는아저씨",
+		["채널와저씨 - 하이잘"] = "와우하는아저씨",
+		["건건 - 아즈샤라"] = "건건 - 아즈샤라",
+		["미스터와저 - 아즈샤라"] = "미스터와저 - 아즈샤라",
+		["애돈떼스트 - 아즈샤라"] = "와우하는아저씨",
+		["애드온최종테스트 - 아즈샤라"] = "와우하는아저씨",
+		["십일월테스트용 - 아즈샤라"] = "와우하는아저씨",
+		["와우하는아저씌 - 하이잘"] = "와우하는아저씨",
+		["와저씨애돈테스트 - 아즈샤라"] = "와우하는아저씨",
+		["Wagerssi - 하이잘"] = "와우하는아저씨",
+		["와저씌 - 하이잘"] = "와우하는아저씨",
+		["펀펀 - 아즈샤라"] = "와우하는아저씨",
+		["회색빛의도사 - 아즈샤라"] = "와우하는아저씨",
+		["던던 - 아즈샤라"] = "와우하는아저씨",
+		["애똔테스트 - 아즈샤라"] = "와우하는아저씨",
+		["회색빛의보스 - 아즈샤라"] = "와우하는아저씨",
+		["테스트용아이디용 - 아즈샤라"] = "와우하는아저씨",
+		["Wazerssi - 아즈샤라"] = "Wazerssi - 아즈샤라",
+		["테스티애돈 - 아즈샤라"] = "와우하는아저씨",
+	},
+	["profiles"] = {
+		["Wagerssi - 아즈샤라"] = {
+		},
+		["와저씨테스트중임 - 아즈샤라"] = {
+		},
+		["회색빛의법사 - 아즈샤라"] = {
+		},
+		["애똔테스 - 아즈샤라"] = {
+		},
+		["펀펀 - 아즈샤라"] = {
+		},
+		["회색빛의악마 - 아즈샤라"] = {
+		},
+		["채널와저씨 - 하이잘"] = {
+		},
+		["애돈떼스트 - 아즈샤라"] = {
+		},
+		["애드온최종테스트 - 아즈샤라"] = {
+		},
+		["와우하는아저씌 - 하이잘"] = {
+		},
+		["와저씨애돈테스트 - 아즈샤라"] = {
+		},
+		["와저씌 - 하이잘"] = {
+		},
+		["십일월테스트용 - 아즈샤라"] = {
+		},
+		["회색빛의보스 - 아즈샤라"] = {
+		},
+		["Wagerssi - 하이잘"] = {
+		},
+		["애똔테스트 - 아즈샤라"] = {
+		},
+		["회색빛의도사 - 아즈샤라"] = {
+		},
+		["테스트용아이디용 - 아즈샤라"] = {
+		},
+		["던던 - 아즈샤라"] = {
+		},
+		["테스티애돈 - 아즈샤라"] = {
+		},
+	},
+}

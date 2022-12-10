@@ -1,0 +1,25 @@
+tag a48a89ce93e48d1a38e532446827cdea4301cea9 10.0.2.0
+Author:	semlar <teslagraafs@gmail.com>
+Date:	Sun Nov 20 16:55:48 2022 -0500
+
+commit 4647bca8c8c854917c9422906761baffd6d53da7
+Author: semlar <teslagraafs@gmail.com>
+Date:   Sun Nov 20 16:54:40 2022 -0500
+
+    Clean up debug statements
+
+commit 92bc2aaf20e68d0cf9b185e4aba143fbc7393a8b
+Author: semlar <teslagraafs@gmail.com>
+Date:   Sun Nov 20 16:51:14 2022 -0500
+
+    Add minor version to toc
+
+commit b6ec6e851563790b5a410a75ceb1443cbd8bf296
+Author: dns <sklwow99@gmail.com>
+Date:   Mon Nov 21 00:37:09 2022 +0300
+
+    Fix tooltips to support 10.0.2 api changes
+    
+    - Add support for new tooltip api
+    - Bump toc for 10.0.2
+

@@ -1,0 +1,5 @@
+
+EmeraldFrameworkSettings = {
+	["theme"] = {
+	},
+}

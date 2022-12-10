@@ -1,0 +1,58 @@
+VER 3 0100000000000026 "독소 정화" "135953"
+#showtooltip 독소 정화
+/cast [@mouseover,help,nodead][help,nodead] 독소 정화
+END
+VER 3 0100000000000021 "복수" "135957"
+#showtooltip 
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 심판관의 복수
+END
+VER 3 0100000000000027 "비난" "523893"
+#showtooltip 비난
+/cast [@mouseover,help,nodead][help,nodead] 비난
+END
+VER 3 0100000000000018 "선고" "461860"
+#showtooltip 기사단의 선고
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm]기사단의 선고
+END
+VER 3 010000000000001F "성전사일격" "135891"
+#showtooltip 성전사의 일격
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 성전사의 일격
+END
+VER 3 010000000000001E "신축" "135928"
+#showtooltip 신의 축복
+/stopcasting
+/cast [@mouseover,help,nodead][help,nodead] 신의 축복
+END
+VER 3 0100000000000016 "심망" "135963"
+#showtooltip 심판의 망치
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm]심판의 망치
+END
+VER 3 0100000000000012 "심판" "135959"
+#showtooltip 심판
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 심판
+END
+VER 3 0100000000000024 "여명" "461859"
+#showtooltip 여명의 빛
+/cast [@mouseover,help,nodead][help,nodead] 여명의 빛
+END
+VER 3 0100000000000028 "저해" "1360760"
+#showtooltip 저해의 손길
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm]저해의 손길
+END
+VER 3 010000000000001A "정방" "ABILITY_PALADIN_SHIELDOFVENGEANCE"
+#showtooltip 정의의 방패
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 정의의 방패
+END
+VER 3 0100000000000025 "천벌" "613533"
+#showtooltip 천벌의 망치
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 천벌의 망치
+END
+VER 3 010000000000002A "충 칼" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/targetenemy [noexists]
+/시전 [@mouseover,exists,nodead,spec:1][spec:1] 신성 충격; [@mouseover,harm,nodead,spec:2][spec:2] 응징의 방패; [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm][] 심판의 칼날;
+END
+VER 3 0100000000000020 "파멸" "1112939"
+#showtooltip 파멸의 재
+/cast [@target,harm,exists][@mouseovertarget,harm,exists][@mouseover,harm] 파멸의 재
+END

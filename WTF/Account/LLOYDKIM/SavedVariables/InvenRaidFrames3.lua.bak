@@ -1,0 +1,53 @@
+
+InvenRaidFrames3DB = {
+	["profileKeys"] = {
+	},
+	["minimapButton"] = {
+		["show"] = true,
+		["radius"] = 80,
+		["angle"] = 19,
+		["dragable"] = false,
+		["rounding"] = 10,
+	},
+	["profiles"] = {
+		["기본값"] = {
+			["useManager"] = false,
+			["userAura"] = {
+				[160029] = true,
+				[27827] = true,
+				[372682] = true,
+				[373589] = true,
+				[225080] = true,
+				[396623] = true,
+			},
+			["font"] = {
+				["attribute"] = "OUTLINE",
+				["size"] = 10,
+			},
+			["height"] = 35,
+			["petpx"] = 1066.666625976563,
+			["borderEdgeValue"] = 3,
+			["usePet"] = 1,
+			["partyTag"] = false,
+			["units"] = {
+				["tooltip"] = 1,
+				["healthRed"] = true,
+				["buffIconSize"] = 11,
+				["className"] = true,
+				["showAbsorbHealth"] = true,
+				["healthType"] = 4,
+				["nameEndl"] = true,
+				["roleIconSize"] = 11,
+				["shortLostHealth"] = true,
+				["texture"] = "Smooth v2",
+			},
+			["column"] = 5,
+			["petpy"] = -599.9998779296875,
+			["px"] = 1359.444580078125,
+			["py"] = -366.1610107421875,
+			["lock"] = true,
+			["width"] = 75,
+		},
+	},
+}
+InvenRaidFrames3AddonlinkDB = 1

@@ -1,0 +1,7 @@
+
+GMLOOT = {
+	["SCALE"] = 1,
+	["QUEST"] = true,
+	["COINS"] = true,
+	["REAGS"] = true,
+}

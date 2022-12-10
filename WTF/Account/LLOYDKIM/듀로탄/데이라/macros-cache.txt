@@ -1,0 +1,61 @@
+VER 3 0100000000000006 "공포" "Spell_Shadow_Possession"
+#showtooltip 공포
+/시전중지
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead]공포
+END
+VER 3 0100000000000013 "대재앙" "409545"
+#showtooltip 대재앙
+/cast [@cursor] 대재앙
+END
+VER 3 010000000000000E "대혼란" "460695"
+#showtooltip 대혼란
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead] 대혼란
+END
+VER 3 0100000000000010 "따르기" "132328"
+/소환수따르기 [@pettarget, exists]
+END
+VER 3 0100000000000011 "부패" "136118"
+#showtooltip 부패
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead] 부패
+END
+VER 3 0100000000000014 "불의 비" "136186"
+#showtooltip 불의 비
+/cast [@cursor] 불의 비
+END
+VER 3 010000000000000C "소각" "135789"
+#showtooltip 소각
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead] 소각
+END
+VER 3 010000000000000B "점화" "135807"
+#showtooltip 점화
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead] 점화
+END
+VER 3 0100000000000012 "제물" "135817"
+#showtooltip 제물
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead] 제물
+END
+VER 3 0100000000000007 "지옥불정령" "136219"
+#showtooltip 지옥불정령 소환(수호자)
+/시전 지옥 지배
+/시전 지옥불정령 소환(수호자)
+END
+VER 3 0100000000000004 "추방" "Spell_Shadow_Cripple"
+#showtooltip 추방
+/시전중지
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead]추방
+END
+VER 3 0100000000000008 "파멸의 의식" "538538"
+#showtooltip 파멸의 의식
+/시전 파멸의 의식
+END
+VER 3 0100000000000001 "팻!" "Ability_Paladin_TouchedbyLight"
+/petattack [target=pettarget,noexists]
+END
+VER 3 010000000000000D "혼돈의 화살" "236291"
+#showtooltip 혼돈의 화살
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead] 혼돈의 화살
+END
+VER 3 010000000000000F "흡수" "136169"
+#showtooltip 생명력 흡수
+/시전 [nomod,target=mouseover,harm,nodead][nomod,harm,nodead] 생명력 흡수
+END

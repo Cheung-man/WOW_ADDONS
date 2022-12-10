@@ -1,0 +1,32 @@
+VER 3 0000000000000023 "공중부양" "135928"
+#showtooltip 공중 부양
+/시전 [@target, exists] 공중 부양;[@player] 공중 부양
+END
+VER 3 0000000000000025 "깃털" "134400"
+#showtooltip
+/시전 [target=player] 천사의 깃털
+END
+VER 3 000000000000001F "대무" "135739"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player]대규모 무효화
+END
+VER 3 0000000000000022 "드루해제" "135952"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player]해제
+END
+VER 3 0000000000000020 "마무" "136066"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player] 마법 무효화
+END
+VER 3 000000000000001D "순치" "135907"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player] 순간 치유
+END
+VER 3 0000000000000019 "죽음" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/시전 [@mouseovertarget,harm] 어둠의 권능: 죽음
+END
+VER 3 0000000000000024 "질병 정화" "135935"
+#showtooltip
+/시전 [target=mouseover,help][help][target=player] 질병 정화
+END
