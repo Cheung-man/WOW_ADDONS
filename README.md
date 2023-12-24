@@ -6,4 +6,4 @@ Update Date : 2023.05.12
    Profile 변경 할 것
    -> Elv, Plater, omniCC
    
-Version : 20231224: https://drive.google.com/file/d/1E9Fos9f58FhbHOfKhH20MdQvLiq19dP5/view?usp=drive_link
+Version : 20231224: https://drive.google.com/file/d/1CzhWJBSEmDEMFTa4ZQP4vCZ86HwjOOg3/view?usp=drive_link
